@@ -144,7 +144,8 @@ zoom={mapZoom}
       
     </div>
     <div className="creater">
-    Made by Aaste
+    Made by Anish
+    
     </div>
     </div>
     
